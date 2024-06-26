@@ -13,6 +13,10 @@ I speak three languages such as English, Russian and my native language is Uzbek
 - Web Technologies: HTML, CSS, React, SASS
 - Tools and Platforms: Git
 
+## Certifications
+- Certified Frontend Developer - DATA learning center, 2022
+- English proficiency test -  IELTS, 2022
+
 ## Experience
 ### Broker at Elite Auto Shipping
 Consult with sales, media and marketing representatives to obtain information on product or service and discuss style and length of advertising copy. Caling and Answering ot the calls, making contracts. Answering to the messages and emails.
@@ -33,3 +37,8 @@ _Webster University, 2023_
 - English: Fluent
 - Russian: Fluent
 - Uzbek: Mother Language
+
+## Hobbies
+- Coding
+- Playing a guitar
+- Playing chess
