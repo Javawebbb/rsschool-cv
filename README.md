@@ -1,2 +1,4 @@
-# rsschool-cv
-[View my CV](https://Javawebbb.github.io/rsschool-cv/cv)
+## My CV
+
+You can view my CV at the following link:
+[https://Javawebbb.github.io/rsschool-cv/](https://Javawebbb.github.io/rsschool-cv/)
