@@ -1,4 +1,5 @@
-## My CV
+# CV
 
-You can view my CV at the following link:
-[https://Javawebbb.github.io/rsschool-cv/](https://Javawebbb.github.io/rsschool-cv/)
+[CV в формате markdown](https://Javawebbb.github.io/rsschool-cv/cv)
+
+[CV в виде свёрстанной страницы](https://Javawebbb.github.io/rsschool-cv/)
